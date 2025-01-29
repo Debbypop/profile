@@ -5,4 +5,3 @@ function updateTime() {
     updateTime();
     setInterval(updateTime, 60000);
     
-HTMLObjectElement
